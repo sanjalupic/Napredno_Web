@@ -1,0 +1,1 @@
+LV1: Većina zadatka je odrađen: implementirane su interface, klasa i metode koje su zasnovane na radu s bazom podataka mysql-a. Problem je predstavljalo dohvaćanje diplomskih radova iz baze podataka, te prikaz na web preglednik.
